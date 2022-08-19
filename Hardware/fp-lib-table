@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "ogx360")(type "KiCad")(uri "$(KIPRJMOD)/ogx360.pretty")(options "")(descr ""))
+)
